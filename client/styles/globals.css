@@ -1,0 +1,144 @@
+@import url('https://fonts.googleapis.com/css2?family=Rambla&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono&family=Rambla&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Instrument+Serif:ital@1&family=JetBrains+Mono&family=Lobster&family=Noto+Sans+TC&display=swap');
+@import
+url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css');
+@import
+url('https://fonts.googleapis.com/css2?family=Rambla&display=swap');
+@import
+url('https://cdn.jsdelivr.net/npm/bootstrap-icons@1.3.0/font/bootstrap-icons.css');
+/* @import url('https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-/bQdsTh/da6pkI1MST/rWKFNjaCP5gBSY4sEBT38Q/9RBh9AH40zEOg7Hlq2THRZ'); */
+
+:root {
+  --plyr-color-main: #ea6f2a;
+}
+
+.theme-cutstom {
+  --plyr-color-main: #ea6f2a;
+}
+
+.bg-img {
+  background-image: url('../public/images/video_line/訂閱方案頁面.png');
+  background-size: cover;
+  position: fixed;
+  left: 0;
+  right: 0;
+  background-color: '#ffffff';
+  width: 1920px;
+  height: 100%;
+}
+
+.VidIndexSec1 {
+  background-image: url('../public/images/background 1.png');
+  background-size: cover;
+  background-position: -2px 0px;
+  margin-top:-20px;
+  position: fixed;
+  left: 0;
+  right: 0;
+  background-color: '#ffffff';
+  height: 2788px;
+}
+
+.record-img {
+  background-image: url('../public/img-record/index-background.png');
+}
+
+html {
+  max-width: 1920px;
+}
+
+.box7 .box8 {
+  background-color: #f4f1f1;
+}
+
+.sub-btn {
+  position: relative;
+  left: 1500px;
+  top: -100px;
+  width: 270px;
+  height: 91.59px;
+  background-color: #f36f36;
+  border: transparent;
+  border-radius: 26px;
+}
+.sub-btn:hover {
+  width: 270px;
+  height: 91.59px;
+  border: transparent;
+  border-radius: 26px;
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+}
+.sub-btn p {
+  position: relative;
+  top: 30px;
+  left: 45px;
+  font-family: 'Rambla', sans-serif;
+  font-size: 25px;
+  letter-spacing: 2px;
+  color: #ffffff;
+}
+
+.footer-title {
+  color: #ea6f2a;
+  font-size: 32px;
+  font-family: 'Rambla', sans-serif;
+}
+
+.li-style {
+  font-family: 'Rambla', sans-serif;
+  font-size: 20px;
+  color: #ffffff;
+  margin-top: 5px;
+}
+
+.li-style:hover {
+  font-family: 'Rambla', sans-serif;
+  font-size: 20px;
+  color: #ea6f2a;
+}
+/* 修改聊天室樣式 */
+.rcw-conversation-container .rcw-header {
+  background-color: #ea6f2a !important;
+}
+.rcw-conversation-container .rcw-close-button {
+  background-color: #ea6f2a !important;
+}
+.rcw-client .rcw-message-text {
+  background-color: #ffffff !important;
+  color: rgb(0, 0, 0);
+}
+.rcw-response .rcw-message-text {
+  background-color: #ffffff !important;
+  color: rgb(0, 0, 0);
+}
+.rcw-launcher {
+  background-color: #ea6f2a !important;
+}
+.AunmySwipe > .swiper-button-next:after {
+  color: #ea6f2a !important;
+}
+.AunmySwipe > .swiper-button-prev:after {
+  color: #ea6f2a !important;
+}
+
+.btn-primary {
+  background-color: #ea6f2a  !important;
+  border-color: #ea6f2a !important;
+}
+
+.three-title{
+    font-family: 'Rambla', sans-serif !important;
+    letter-spacing: 3px;
+    position: relative;
+    left:200px;
+    font-size: 30px !important;
+    color: #4A4A4A !important;
+    text-align: center !important;
+  }
+.rcw-messages-container {
+  background-color: #eaeaea !important;
+}
+.rcw-message-text > p > a {
+  color: #ea6f2a !important;
+}

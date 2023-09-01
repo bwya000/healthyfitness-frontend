@@ -1,0 +1,324 @@
+{
+    "video": [
+        {
+            "VideoID": "1",
+            "Title": "10分鐘腿部訓練【初級版】",
+            "ReleaseDate": "2023-06-08",
+            "Description": "訓練的内容一共包含6個訓練動作x2組+30秒組間休息時間",
+            "URL": "https://www.youtube.com/embed/QflKoDHgVqY",
+            "vidthumbnail": "10分鐘腿部訓練【初級版】.jpeg"
+        },
+        {
+            "VideoID": "2",
+            "Title": "8分鐘背肌訓練【初級-中級版】",
+            "ReleaseDate": "2023-06-08",
+            "Description": "只需 11 個訓練動作，中途給大家留了30秒的喘息時間",
+            "URL": "https://www.youtube.com/embed/ltDf3HVO6vA",
+            "vidthumbnail": "8分鐘背肌訓練【初級-中級版】.jpeg"
+        },
+        {
+            "VideoID": "3",
+            "Title": "每日５分鐘 新手在家練胸肌【初級版】",
+            "ReleaseDate": "2023-06-09",
+            "Description": "這個影片是居家練胸肌 伏地挺身初階訓練影片，非常適合剛接觸運動的新手，或是體重比較重的人。",
+            "URL": "https://www.youtube.com/embed/zlkc8fAAijU",
+            "vidthumbnail": "每日５分鐘新手在家練胸肌【初級版】.jpeg"
+        },
+        {
+            "VideoID": "4",
+            "Title": "10 分鐘居家腹肌訓練【中級版】",
+            "ReleaseDate": "2023-06-10",
+            "Description": "有效加强核心的訓練，訓練的内容一共包含14個動作，無重複動作，動作都非常簡單",
+            "URL": "https://www.youtube.com/embed/uY5tzTGOV9s",
+            "vidthumbnail": "10 分鐘居家腹肌訓練【中級版】.jpeg"
+        },
+        {
+            "VideoID": "5",
+            "Title": "10分鐘居家手臂啞鈴訓練【中級版】",
+            "ReleaseDate": "2023-06-10",
+            "Description": "有效訓練二頭肌和三頭肌，讓你快速增肌減脂",
+            "URL": "https://www.youtube.com/embed/HsNobB5IZCc",
+            "vidthumbnail": "10分鐘居家手臂啞鈴訓練【中級版】.jpeg"
+        },
+        {
+            "VideoID": "6",
+            "Title": "10分鐘居家肩部啞鈴訓練【中級版】",
+            "ReleaseDate": "2023-06-10",
+            "Description": "有效訓練肩膀，讓你快速增肌減脂",
+            "URL": "https://www.youtube.com/embed/-4sCm3UswDo",
+            "vidthumbnail": "10分鐘居家肩部啞鈴訓練【中級版】.jpeg"
+        },
+        {
+            "VideoID": "7",
+            "Title": "15分鐘居家啞鈴胸肌訓練【高級版】",
+            "ReleaseDate": "2023-06-10",
+            "Description": "這一集的15分鐘啞鈴訓練的中級版，總共會有8個訓練動作\n每一個動作將會改爲40秒，休息15秒，組間有1次60秒的休息時間。\n完成了一組15分鐘訓練后，也可以再做重複做一組！",
+            "URL": "https://www.youtube.com/embed/VCWx4eX2QJs",
+            "vidthumbnail": "15分鐘居家啞鈴胸肌訓練【高級版】.jpeg"
+        },
+        {
+            "VideoID": "8",
+            "Title": "15分鐘居家腿部徒手訓練【中級版】",
+            "ReleaseDate": "2023-06-10",
+            "Description": "内容共12個動作（重複兩輪訓練）\n兩輪之間會有60秒的調息時間！大家一起動起來吧~",
+            "URL": "https://www.youtube.com/embed/gluKcFG6Mnw",
+            "vidthumbnail": "15分鐘居家腿部徒手訓練【中級版】.jpeg"
+        },
+        {
+            "VideoID": "9",
+            "Title": "10分鐘居家腹肌訓練【高級版】",
+            "ReleaseDate": "2023-06-10",
+            "Description": "有效加强核心的訓練，男生和女生都適合的健身訓練",
+            "URL": "https://www.youtube.com/embed/bvGCgdQ2JHg",
+            "vidthumbnail": "10分鐘居家腹肌訓練【高級版】.jpeg"
+        },
+        {
+            "VideoID": "10",
+            "Title": "20分鐘居家腿部徒手訓練【高級版】",
+            "ReleaseDate": "2023-06-10",
+            "Description": "内容一共 11 個動作（重複兩輪訓練）\n兩輪之間一樣會有 60 秒的調息時間！",
+            "URL": "https://www.youtube.com/embed/FzWtjpjVpyY",
+            "vidthumbnail": "20分鐘居家腿部徒手訓練【高級版】.jpeg"
+        },
+        {
+            "VideoID": "11",
+            "Title": "10分鐘背部訓練【高級版】",
+            "ReleaseDate": "2023-06-11",
+            "Description": "共有 13個訓練动作，之間也給大家留了60秒的調息時間。一起把背肌力量煉起來～",
+            "URL": "https://www.youtube.com/embed/Hk24aqjEJgs",
+            "vidthumbnail": "10分鐘背部訓練【高級版】.jpeg"
+        },
+        {
+            "VideoID": "12",
+            "Title": "15 分鐘居家啞鈴腿部訓練【中-高級版】",
+            "ReleaseDate": "2023-06-11",
+            "Description": "\r\n這是一集 15 分鐘的 - 腿部啞鈴訓練，内容會有三組 / 總共 8 個動作，每一組之間都會有 30 秒的調息時間！",
+            "URL": "https://www.youtube.com/embed/aa8Lv_H2cO0",
+            "vidthumbnail": "15 分鐘居家啞鈴腿部訓練【中-高級版】.jpeg"
+        },
+        {
+            "VideoID": "13",
+            "Title": "10分鐘居家上半身啞鈴訓練【中級版】",
+            "ReleaseDate": "2023-06-11",
+            "Description": "這次分享了 20 分鐘的上半身啞鈴訓練，同樣分成兩組進行（組間有60秒休息時間）整個訓練一共只有 11 個訓練動作。",
+            "URL": "https://www.youtube.com/embed/ogv9jlzai-g",
+            "vidthumbnail": "10分鐘居家上半身啞鈴訓練【中級版】.jpeg"
+        },
+        {
+            "VideoID": "14",
+            "Title": "12分鐘居家臀腿訓練【初級版】",
+            "ReleaseDate": "2023-06-11",
+            "Description": "訓練的内容一共包含1個熱身動作 +17個訓練動作 ,希望大家一起加油！",
+            "URL": "https://www.youtube.com/embed/qDCyk7viJ6Q",
+            "vidthumbnail": "12分鐘居家臀腿訓練【初級版】.jpeg"
+        },
+        {
+            "VideoID": "15",
+            "Title": "5 分鐘居家腹肌訓練【初級版】",
+            "ReleaseDate": "2023-06-11",
+            "Description": "共 8 個動作，每一組有 10 秒間隔休息時間，在家依然可以實現 擁有腹肌的心！",
+            "URL": "https://www.youtube.com/embed/4unok_CQMFU",
+            "vidthumbnail": "5分鐘居家腹肌訓練【初級版】.jpeg"
+        },
+        {
+            "VideoID": "16",
+            "Title": "4招教你如何有效的趕走拜拜肉【初級版】",
+            "ReleaseDate": "2023-06-11",
+            "Description": "讓你的手臂更結實好看！只需要用到彈力帶就可開始訓練了",
+            "URL": "https://www.youtube.com/embed/4_6Ln7CqBhk",
+            "vidthumbnail": "4招教你如何有效的趕走拜拜肉【初級版】.jpeg"
+        },
+        {
+            "VideoID": "17",
+            "Title": "10分鐘背部訓練【初級版】",
+            "ReleaseDate": "2023-06-13",
+            "Description": "這次訓練只需要一個乾净的地面，一張瑜伽墊就能完成！共有 兩組 / 7 個訓練动作，之間也給大家留了60秒的調息時間",
+            "URL": "https://www.youtube.com/embed/03Yr_xbXUew",
+            "vidthumbnail": "10分鐘背部訓練【初級版】.jpeg"
+        },
+        {
+            "VideoID": "18",
+            "Title": "15 分鐘居家腹肌訓練【初級版】",
+            "ReleaseDate": "2023-06-13",
+            "Description": "這次的訓練會有11 個動作 x 2組，中間有60秒休息",
+            "URL": "https://www.youtube.com/embed/hoFhvmJgfYM",
+            "vidthumbnail": "15分鐘居家腹肌訓練【初級版】.jpeg"
+        },
+        {
+            "VideoID": "19",
+            "Title": "10分鐘居家胸肌徒手訓練【中級版】",
+            "ReleaseDate": "2023-06-13",
+            "Description": "這次的訓練會分成兩組，共有7個動作，簡單的跟著做系列。建議想嘗試的新手可以先選擇跪姿的方式開始訓練。",
+            "URL": "https://www.youtube.com/embed/iTdv74o6GOY",
+            "vidthumbnail": "10分鐘居家胸肌徒手訓練【中級版】.jpeg"
+        },
+        {
+            "VideoID": "20",
+            "Title": "12分鐘居家啞鈴肩部訓練【中級版】",
+            "ReleaseDate": "2023-06-13",
+            "Description": "這次的啞鈴訓練，會分成兩組進行（組間有60秒休息時間）整個訓練共包含了一個熱身和 8 個訓練動作。",
+            "URL": "https://www.youtube.com/embed/t8qTOd3WfpE",
+            "vidthumbnail": "12分鐘居家啞鈴肩部訓練【中級版】.jpeg"
+        },
+        {
+            "VideoID": "21",
+            "Title": "5分鐘居家腹肌訓練2【初級版】",
+            "ReleaseDate": "2023-06-14",
+            "Description": "【5分鐘的核心訓練】連續 8 個訓練動作，組間60秒休息時間，連續兩組訓練。",
+            "URL": "https://www.youtube.com/embed/JF0uEQnyseE",
+            "vidthumbnail": "5分鐘居家腹肌訓練2【初級版】.jpeg"
+        },
+        {
+            "VideoID": "22",
+            "Title": "12分鐘居家徒手腹肌訓練【初級版】無裝備",
+            "ReleaseDate": "2023-06-14",
+            "Description": "第二天的訓練，在啓動了全身肌肉之後，我們就先來到大家最感興趣的核心訓練！畢竟，想完成所有的標準訓練動作，都是需要利用/依靠核心力量來支撐和平衡的。",
+            "URL": "https://www.youtube.com/embed/w0DZRE6NZws",
+            "vidthumbnail": "12分鐘居家徒手腹肌訓練【初級版】無裝備.jpeg"
+        },
+        {
+            "VideoID": "23",
+            "Title": "12分鐘居家上半身訓練【中級版】",
+            "ReleaseDate": "2023-06-14",
+            "Description": "訓練主要訓練 胸，肩膀，二頭肌和三頭肌 這次的訓練會有7個動作，之間有30秒休息，做完一組會有60秒休息",
+            "URL": "https://www.youtube.com/embed/ERKbepvwO3k",
+            "vidthumbnail": "12分鐘居家上半身訓練【中級版】.jpeg"
+        },
+        {
+            "VideoID": "24",
+            "Title": "20分鐘腿和腹肌訓練【中級版】",
+            "ReleaseDate": "2023-06-14",
+            "Description": "訓練的内容一共包含3個熱身動作 +17個訓練動作",
+            "URL": "https://www.youtube.com/embed/HILBG-LQ0vU",
+            "vidthumbnail": "20分鐘腿和腹肌訓練【中級版】.jpeg"
+        },
+        {
+            "VideoID": "25",
+            "Title": "10分鐘上半身徒手訓練 【中級版】",
+            "ReleaseDate": "2023-06-14",
+            "Description": "這次的訓練會有15個動作，簡單的跟著做系列\r\n建議大家可以做一到兩組，達到更好效果。",
+            "URL": "https://www.youtube.com/embed/YvoR6n7XvwQ",
+            "vidthumbnail": "10分鐘上半身徒手訓練 【中級版】.jpeg"
+        },
+        {
+            "VideoID": "26",
+            "Title": "10分鐘腹肌訓練【中級版】",
+            "ReleaseDate": "2023-06-14",
+            "Description": "隨時隨地都能在家做的運動｜有效加强核心的訓練",
+            "URL": "https://www.youtube.com/embed/BDduWYFejtw",
+            "vidthumbnail": "10分鐘腹肌訓練【中級版】.jpeg"
+        },
+        {
+            "VideoID": "27",
+            "Title": "15分鐘居家手臂啞鈴訓練【中級版】",
+            "ReleaseDate": "2023-06-14",
+            "Description": "這次分享了15分鐘的上半身啞鈴訓練，會分成兩組進行（組間有60秒休息時間）\r\n整個訓練共包含了兩組的 9 個訓練動作。",
+            "URL": "https://www.youtube.com/embed/FRdwUyS9TFI",
+            "vidthumbnail": "15分鐘居家手臂啞鈴訓練【中級版】.jpeg"
+        },
+        {
+            "VideoID": "28",
+            "Title": "8 分鐘居家腹肌訓練(襪子版本)",
+            "ReleaseDate": "2023-06-15",
+            "Description": "【8分鐘的核心訓練】共10個動作，每一組有10秒間隔休息時間",
+            "URL": "https://www.youtube.com/embed/XM5ZuUjrCso",
+            "vidthumbnail": "8分鐘居家腹肌訓練(襪子版本).jpeg"
+        },
+        {
+            "VideoID": "29",
+            "Title": "5分鐘腹肌訓練(續之前腹肌訓練的加强版)",
+            "ReleaseDate": "2023-06-15",
+            "Description": "5分鐘帶你一起感受腹肌的燃燒 ！",
+            "URL": "https://www.youtube.com/embed/dQ_3J0Fgldg",
+            "vidthumbnail": "5分鐘腹肌訓練(續之前腹肌訓練的加强版).jpeg"
+        },
+        {
+            "VideoID": "30",
+            "Title": "7 分鐘居家徒手腹肌訓練【初級版】無裝備",
+            "ReleaseDate": "2023-06-15",
+            "Description": "【7分鐘的站立式核心訓練】分別有：第一組的 5 秒間隔休息時間，和第二組的不間斷無休息。",
+            "URL": "https://www.youtube.com/embed/83DpxHnRGuA",
+            "vidthumbnail": "20分鐘腿和腹肌訓練【中級版】.jpeg"
+        },
+        {
+            "VideoID": "31",
+            "Title": "40分鐘居家全身啞鈴訓練【中級版】",
+            "ReleaseDate": "2023-07-17",
+            "Description": "【男生】 - 雙手各拿一個6到10公斤\r\n【女生】 - 雙手各拿一個3到6公斤\r\n這一集的40分鐘啞鈴訓練的升級版，總共會有2個熱身動作&18個訓練動作，每一個動作將會改爲40秒，休息15秒，每一輪之間都會有2次的60秒的喘息時間。\r\n完成了20個訓練動作之後（為一輪），再重複做一組！",
+            "URL": "https://youtu.be/ncfPAUKu64c",
+            "vidthumbnail": "40分鐘居家全身啞鈴訓練【中級版】.jpeg"
+        },
+        {
+            "VideoID": "32",
+            "Title": "15分鐘高强度全身肌肉徒手訓練【中級版】",
+            "ReleaseDate": "2023-07-17",
+            "Description": "這次的訓練共20個動作，分爲兩組進行，組閒為一分鐘休息時間，無需器材居家運動\r\n",
+            "URL": "https://youtu.be/4JIZXFsDPjY",
+            "vidthumbnail": "15分鐘高强度全身肌肉徒手訓練【中級版】.jpeg"
+        },
+        {
+            "VideoID": "33",
+            "Title": "10分鐘全身徒手訓練【初級版】",
+            "ReleaseDate": "2023-07-17",
+            "Description": "這次的訓練會有15個動作，動作簡單又容易跟著做\r\n建議大家可以做一到兩組為較好效果",
+            "URL": "https://youtu.be/ZbSqhKTTjF8",
+            "vidthumbnail": "10分鐘全身徒手訓練【初級版】.jpeg"
+        },
+        {
+            "VideoID": "34",
+            "Title": "20分鐘居家高强度全身肌肉徒手訓練【高級版】",
+            "ReleaseDate": "2023-07-17",
+            "Description": "訓練的内容一共包含14個動作，高級版的跟著做系列！\r\n想要加强訓練强度的朋友們，可以做兩組來達到更好的效果哦~",
+            "URL": "https://youtu.be/BHcVukKBvjg",
+            "vidthumbnail": "20分鐘居家高强度全身肌肉徒手訓練【高級版】.jpeg"
+        },
+        {
+            "VideoID": "35",
+            "Title": "30分鐘居家全身啞鈴訓練【高級版】",
+            "ReleaseDate": "2023-07-17",
+            "Description": "必看*啞鈴的選擇重量\r\n【男生啞鈴重量建議：單手6-10公斤(kg)】\r\n【女生啞鈴重量建議：單手2-6公斤(kg)】\r\n這次分享了30分鐘的全身啞鈴訓練，同樣分成兩組進行（組間有60秒休息時間）\r\n整個訓練共包含2個熱身動作&17個訓練動作。",
+            "URL": "https://youtu.be/-QHtnGyh6G0",
+            "vidthumbnail": "30分鐘居家全身啞鈴訓練【高級版】.jpeg"
+        },
+        {
+            "VideoID": "36",
+            "Title": "5分鐘簡單全身熱身",
+            "ReleaseDate": "2023-07-17",
+            "Description": "這次的熱身會有10個動作，動作簡單又容易跟著做\r\n建議大家可以在開始健身前做的五分鐘熱身",
+            "URL": "https://youtu.be/PC7hEEWGG2o",
+            "vidthumbnail": "5分鐘簡單全身熱身.jpeg"
+        },
+        {
+            "VideoID": "37",
+            "Title": "30分鐘居家全身肌肉徒手訓練【初級版】",
+            "ReleaseDate": "2023-07-17",
+            "Description": "這次的訓練集合了5分鐘熱身、15分鐘徒手訓練，10分鐘暖身完整的帶大家一起充分的感受 肌肉的刺激和燃燒！15分鐘的訓練會分爲兩組，組間會給大家60秒的休息時間讓大家有充分的時間和我們一起，繼續戰鬥到最後！",
+            "URL": "https://youtu.be/kbe3Zg7G-TQ",
+            "vidthumbnail": "30分鐘居家全身肌肉徒手訓練【初級版】.jpeg"
+        },
+        {
+            "VideoID": "38",
+            "Title": "20分鐘居家全身啞鈴訓練【中級版】 ",
+            "ReleaseDate": "2023-07-17",
+            "Description": "【男生】-雙手各拿一個6到10公斤\r\n【女生】-雙手各拿一個3到6公斤\r\n這一集的20分鐘啞鈴訓練的升級版，總共會有28個動作\r\n動作是完全沒有重複的，同時也加入了一些中級版的訓練動作！",
+            "URL": "https://youtu.be/CzCe7SrdeIA",
+            "vidthumbnail": "20分鐘居家全身啞鈴訓練【中級版】.jpeg"
+        },
+        {
+            "VideoID": "39",
+            "Title": "10分鐘腿部徒手訓練",
+            "ReleaseDate": "2023-07-17",
+            "Description": "有效針對臀腿和核心部位，男生和女生都適合的健身訓練，緊實你的腿部的開始",
+            "URL": "https://youtu.be/te448SGm4xM",
+            "vidthumbnail": "10分鐘腿部徒手訓練.jpeg"
+        },
+        {
+            "VideoID": "40",
+            "Title": "居家啞鈴全身訓練完整版",
+            "ReleaseDate": "2023-07-17",
+            "Description": "包含了18個啞鈴訓練動作講解，有效訓練你全身的肌肉，分別爲3天的訓練課表 健身新手必看！",
+            "URL": "https://youtu.be/5hr2IKRxuXk",
+            "vidthumbnail": "居家啞鈴全身訓練完整版.jpeg"
+        }
+    ]
+}

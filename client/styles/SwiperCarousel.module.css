@@ -1,0 +1,54 @@
+@import url("https://fonts.googleapis.com/css2?family=Libre+Baskerville:wght@400;700&display=swap");
+
+.swiper {
+  max-width: 50%;
+  overflow: visible;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.swiperslide {
+  background-position: center;
+  background-size: cover;
+  width: 300px;
+  height: 300px;
+}
+
+.swiperslide::after {
+  position: absolute;
+  content: "";
+  inset: 0;
+  width: 100%;
+  aspect-ratio: 1/1;
+  border-radius: 50%;
+  background: linear-gradient(to bottom right, #b8b8b88f, #ffffff5e);
+}
+.swiperslideactive::after {
+  background: none;
+}
+.swiperslide > div {
+  text-align: center;
+  display: none;
+  opacity: 0;
+}
+.swiperslideactive div {
+  display: block;
+  opacity: 1;
+}
+
+.swiperslide h2 {
+  font-size: 1.2rem;
+  font-family: "Libre Baskerville", serif;
+  position: relative;
+}
+
+.swiperslide h2::after {
+  position: absolute;
+  content: "";
+  bottom: -20px;
+  left: 50%;
+  transform: translateX(-50%);
+  height: 2px;
+  background: linear-gradient(#e66465, #9198e5);
+}

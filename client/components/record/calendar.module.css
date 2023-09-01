@@ -1,0 +1,126 @@
+.wrapper {
+  width: 735px;
+  height: 190px;
+  background: #eae8e8;
+  border-radius: 10px;
+  box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.3);
+}
+.wrapper header {
+  display: flex;
+  align-items: center;
+  padding: 10px;
+  justify-content: space-between;
+}
+header .icons {
+  display: flex;
+}
+header .icons span {
+  height: 38px;
+  width: 38px;
+  margin: 0;
+  cursor: pointer;
+  color: #ffffff;
+  text-align: center;
+  line-height: 38px;
+  font-size: 1.9rem;
+  user-select: none;
+  border-radius: 50%;
+}
+.icons span:last-child {
+  margin-right: -10px;
+}
+header .icons span:hover {
+  background: #eae8e8;
+}
+header .current-date {
+  font-size: 1.45rem;
+  font-weight: bold;
+}
+.calendar {
+  padding: 0;
+}
+.calendar ul {
+  display: flex;
+  flex-wrap: wrap;
+  list-style: none;
+  text-align: center;
+  padding: 0;
+  font-weight: bold;
+}
+.calendar .days {
+  margin-bottom: 20px;
+}
+.calendar li {
+  color: #414141;
+  width: calc(100% / 7);
+  font-size: 1rem;
+}
+.calendar .weeks li {
+  font-weight: bold;
+  cursor: default;
+}
+.calendar .days li {
+  z-index: 1;
+  cursor: pointer;
+  position: relative;
+}
+.days li.inactive {
+  color: #ffffff;
+}
+.days li.active {
+  color: #fff;
+  font-weight: bold;
+}
+.days li::before {
+  
+  position: absolute;
+  content: '';
+  left: 50%;
+  top: 50%;
+  height: 120px;
+  width: 70px;
+  z-index: -1;
+  border-radius: 10px;
+  opacity: 0.5;
+  transform: translate(-50%, -50%);
+  
+}
+.days li.active::before  {
+  background-color: rgb(223, 127, 9);
+  color: #fff;
+  
+}
+.days li:hover::before {
+  background-color:rgb(223, 127, 9);
+}
+.days li {
+  position: relative;
+  cursor: pointer;
+  
+}
+
+.days li .dot {
+  width: 8px;
+  height: 8px;
+  background-color: #fff;
+  border-radius: 50%;
+  position: absolute;
+  bottom: 5px;
+  top: calc(100% + 25px);
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+.days li .orange {
+  background-color: orange;
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  position: absolute;
+  bottom: 5px;
+  top: calc(100% + 25px);
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+

@@ -1,0 +1,185 @@
+.dot1,
+.dot3 {
+  height: 40px;
+  width: 40px;
+  background-color: #e25d31;
+  border-radius: 50%;
+  position: relative;
+}
+.dot2 {
+  height: 40px;
+  width: 40px;
+  background-color: #e25d31;
+  border-radius: 50%;
+  position: relative;
+}
+.dot3 {
+  height: 40px;
+  width: 40px;
+  background-color: #aaa6a6;
+  border-radius: 50%;
+  position: relative;
+}
+.dot1::after {
+  content: '';
+  position: absolute;
+  top: 50%;
+  left: 350%;
+  transform: translate(-50%, -50%);
+  height: 1px;
+  width: 230px;
+  background-color: #e25d31;
+}
+.dot2::after {
+  content: '';
+  position: absolute;
+  top: 50%;
+  left: 355%;
+  transform: translate(-50%, -50%);
+  height: 1px;
+  width: 220px;
+  background-color: #aaa6a6;
+}
+
+.productbox {
+  border: 1px solid black;
+  border-radius: 25px;
+}
+.tableMain {
+  font-size: 20px;
+  font-weight: bold;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #414141;
+}
+
+.tableMaintitle {
+  font-size: 24px;
+  font-weight: bold;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #414141;
+}
+
+.productImg {
+  width: 80px;
+}
+.productItem {
+  font-size: 18px;
+  /* font-weight: bold; */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #414141;
+}
+.pruductDelete {
+  color: #e25d31;
+  -webkit-text-stroke: 1px;
+}
+.sendBox {
+  /* border: 1px solid black;
+  border-radius: 25px; */
+  height: 500px;
+  padding-right: 30px;
+}
+.tablePassing {
+  font-size: 20px;
+  font-weight: bold;
+  display: flex;
+  /* justify-content: center; */
+  align-items: center;
+  color: #414141;
+  margin-left: 10px;
+}
+.passing {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 440px;
+  border-bottom: 1px solid rgb(0, 0, 0);
+  border-left: 1px solid rgb(0, 0, 0);
+  border-right: 1px solid rgb(0, 0, 0);
+  border-radius: 0px 0px 25px 25px;
+}
+.passingText {
+  font-size: 20px;
+  font-weight: bold;
+  color: #414141;
+  margin-left: 25px;
+  height: 2px;
+}
+.sevenIcon {
+  display: flex;
+}
+.passingTexttitle {
+  font-size: 20px;
+  font-weight: bold;
+  color: #777777;
+  margin-left: 25px;
+  height: 2px;
+  display: flex;
+  justify-content: space-between;
+  padding-right: 40px;
+  margin-bottom: 10px;
+}
+.orderAll {
+  display: flex;
+  height: 440px;
+  border-bottom: 1px solid rgb(0, 0, 0);
+  border-left: 1px solid rgb(0, 0, 0);
+  border-right: 1px solid rgb(0, 0, 0);
+  border-radius: 0px 0px 25px 25px;
+  padding: 20px 10px 20px 10px;
+}
+.smallCount {
+  display: flex;
+  justify-content: space-between;
+}
+.orderTextleft {
+  font-size: 20px;
+  font-weight: bold;
+  color: #414141;
+}
+.orderTextright {
+  font-size: 20px;
+  /* font-weight: bold; */
+  color: #414141;
+}
+.orderTopside {
+  border-bottom: 1px solid #696868;
+  height: 70%;
+}
+.test {
+  /* border: 1px solid red; */
+  /* margin-top: 0px; */
+  height: 30%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+}
+.orderButton {
+  width: 100%;
+  height: 50px;
+  color: #ffffff;
+  font-size: 20px;
+  background-color: #e25d31;
+  box-shadow: 3px 5px 8px #888888;
+}
+.countBuynum {
+  width: 50%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.forPoint {
+  cursor: pointer;
+}
+.orderButtonSeven {
+  width: 94%;
+  height: 13%;
+  color: #ffffff;
+  font-size: 20px;
+  background-color: #424040;
+}

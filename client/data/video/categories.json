@@ -1,0 +1,44 @@
+{
+  "categories": [
+    {
+      "musclegroupID": "1",
+      "muscleName": "胸肌",
+      "muscleDesc": "胸肌大致分為上胸肌，中胸肌，胸肌,胸肌內側和胸肌外側。不同位置的胸肌需要不同訓練角度去刺激，我們都可以透過調教關節的角度和握法，集中鍛練不同位置的胸肌。"
+    },
+    {
+      "musclegroupID": "2",
+      "muscleName": "背肌",
+      "muscleDesc": "背部肌肉有支撐脊椎、維持軀幹穩定的功能，主要分為：背闊肌、菱形肌、斜方肌、豎脊肌和一些深層的小肌群(e.g.大圓肌，小圓肌、網下肌)。"
+    },
+    {
+      "musclegroupID": "3",
+      "muscleName": "腹肌",
+      "muscleDesc": "腹肌包括腹直肌、腹外斜肌，腹內斜肌和腹橫肌。當它們收縮時，可以使軀幹彎曲及旋轉，並可以防止骨盆前傾。"
+    },
+    {
+      "musclegroupID": "4",
+      "muscleName": "腿部肌群",
+      "muscleDesc": "腿部肌群包括大腿肌群、小腿肌群"
+    },
+    {
+      "musclegroupID": "5",
+      "muscleName": "肩部肌群",
+      "muscleDesc": "三角肌分為前中後，位於手臂和軀幹的肩膀連結處"
+    },
+    {
+      "musclegroupID": "6",
+      "muscleName": "手臂肌群",
+      "muscleDesc": "手臂肌群粗略可分為4大部分：肱二頭肌、肱三頭肌（上臂肌肉）、前臂肌肉和三角肌"
+    },
+    {
+      "musclegroupID": "7",
+      "muscleName": "臀肌",
+      "muscleDesc": "臀肌主要由「臀大肌、臀中肌、臀小肌」組成"
+    },
+    {
+      "musclegroupID": "8",
+      "muscleName": "全身肌群",
+      "muscleDesc": "人體的肌群分別是由腿部、臂部、腹部、臀部、胸部、肩部與背部這七大塊肌群所組成"
+    }
+  ]
+}
